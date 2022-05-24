@@ -1,8 +1,10 @@
 # App_Curso_Alura4
-4º curso React-Native que faço na Alura. Curso muito rico para meu aprendizado, onde as novas informações do APP foram para a melhor conclusão. 
-Neste curso aprendi:
+4º curso React-Native que faço na Alura. Curso muito rico para meu aprendizado, onde as novas informaçõe foram a melhor que a  conclusão do APP. 
+
+**Neste curso aprendi**
+
 * Ajustar a tela usando KeyboardAvoidingView para que o teclado não sobreponha os campos;
-* Como utilizar o reduzir nativo do javascript para agregar valores;
+* Como utilizar o reduce nativo do javascript para agregar valores;
 * Criar um componente padrão para reutilizar sempre que quisermos prevenir os principais problemas de tela em Android e iOS.
 * Como criar um componente e utilizá-lo em outro componente;
 * Utilizar SaveAreaView e StatusBar para que nossas telas não sejam sobrepostas aos elementos do dispositivo como barra de status e barra inferior de gestos do iPhone;
@@ -12,6 +14,7 @@ Tudo isso usando o Expo CLI.
 
 
 **SOBRE O APLICATIVO** 
+
   O Aplicativo é uma para uma Pet Shop chamada Gatito (Nome escolhido pela instrutora da Alura), que apresenta poucas funcionalidades. Porém, bem configurado 
 para que o teclado não seja sobrebonha ao campo, para que os valores sejam convertidos para nossa moeda de forma simples usando o INTL e para que a StatusBar 
 seja definida para o sistema operacional usado pelo usuário. 
