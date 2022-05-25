@@ -1,5 +1,5 @@
 # App_Curso_Alura4
-4º curso React-Native que faço na Alura. Curso muito rico para meu aprendizado, onde as novas informaçõe foram a melhor que a  conclusão do APP. 
+4º curso React-Native que faço na Alura. Curso muito rico para meu aprendizado, onde as novas informaçõe foram  melhor que a  conclusão do APP. 
 
 **Neste curso aprendi**
 
